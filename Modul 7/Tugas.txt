@@ -1,0 +1,13 @@
+4. Jumlah Atribut binomial dan polinomial :
+	1.Binomial 	: 4 {Gender,Asal_Sekolah,Asisten,Lama_Studi}
+	2.Polynomial	: 1 {Jurusan_SMA }
+
+5. Jumlah Atribut yang bertipe real:
+	ada 1 {Rerata_SKS}
+
+
+6. Pada atribut Rerata_SKS :
+	Max : 23
+	Min : 16
+	Mean: 18,95
+	StdDev: 1,669
